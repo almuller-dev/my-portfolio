@@ -1,50 +1,53 @@
-# 🚀 Al Muller's AI/ML Portfolio
+👋 Al Muller’s AI/ML Portfolio
 
-👋 Hi, I'm **Al Muller** – an AI/ML Engineer specializing in **LLMs, Model Quantization, Multi-Agent Systems, and AI for Trading**.
+🚀 Machine Learning | AI Optimization | System Design
+💡 Specializing in LLMs, Model Quantization, Multi-Agent Systems, and AI for Trading
 
-## 🌟 Featured Projects
+📌 Featured Projects
 
-### **1️⃣ Multi-Agent AI Framework**
-🛠 **Tech:** Python, LangChain, Swarm, FastAPI  
-🔍 **Description:** A dynamic AI framework that **coordinates multiple LLM agents** to handle different AI tasks.  
-📈 **Impact:** Improved workflow efficiency by **30%**.  
-🔗 [**GitHub Repo**](#) | [**Live Demo**](#)
+1️⃣ Multi-Agent AI Framework for Scalable Decision-Making
 
----
+🛠 Tech: Python, LangChain, Swarm, FastAPI
+🔍 Problem: Coordinating multiple LLM agents to handle different AI tasks dynamically.
+⚡ Solution: Developed a manager-agent model that assigns specialized tasks to different LLMs.
+📈 Impact: Improved efficiency in AI-based workflows by 30%.
+🔗 GitHub Repo | Demo Video
 
-### **2️⃣ Quantized LLM for iOS**
-🛠 **Tech:** PyTorch, Core ML, 8-bit Quantization  
-🔍 **Description:** Optimized **Llama 3.2 1B** to run on iPhones, reducing model size while maintaining accuracy.  
-📈 **Impact:** Achieved **40% faster inference** on iPhone.  
-🔗 [**GitHub Repo**](#) | [**iOS Demo**](#)
+2️⃣ Quantized LLM for iOS (Core ML)
 
----
+🛠 Tech: PyTorch, Core ML, 8-bit Quantization
+🔍 Problem: Running a lightweight yet powerful LLM directly on mobile devices.
+⚡ Solution: Converted Llama 3.2 1B to Core ML, reducing model size while maintaining accuracy.
+📈 Impact: Achieved 40% faster inference on iPhone without major performance loss.
+🔗 GitHub Repo | iOS Demo
 
-### **3️⃣ AI-Powered Trading Bot**
-🛠 **Tech:** Python, Flask, Reinforcement Learning  
-🔍 **Description:** Hybrid RL & technical indicator strategy for automated trading.  
-📈 **Impact:** Consistent **2% daily ROI in backtests**.  
-🔗 [**GitHub Repo**](#) | [**Live Strategy Breakdown**](#)
+3️⃣ AI-Powered Trading Bot
 
----
+🛠 Tech: Python, Flask, Alpha Vantage API, Reinforcement Learning
+🔍 Problem: Automating trading strategies with AI while managing risk.
+⚡ Solution: Built a hybrid strategy using RL and technical indicators (MACD, Bollinger Bands).
+📈 Impact: Achieved consistent 2% daily ROI in backtests.
+🔗 GitHub Repo | Live Strategy Breakdown
 
-## 📝 Blog & Technical Articles
-📄 [**Optimizing LLMs for Edge Devices**](#)  
-📄 [**Multi-Agent AI: Scaling AI Collaboration**](#)  
-📄 [**Reinforcement Learning in Stock Trading**](#)  
+📜 Technical Blog & Articles
 
----
+📄 Optimizing LLMs for Edge Devices
+📄 Multi-Agent AI: Scaling AI Collaboration
+📄 Reinforcement Learning in Stock Trading
 
-## 🎯 Skills & Tech Stack
-- **Machine Learning & AI:** PyTorch, TensorFlow, Reinforcement Learning, NLP  
-- **AI Deployment:** Core ML, CUDA, Quantization, Distributed Computing  
-- **Full-Stack Development:** Next.js, Flask, REST APIs, Docker  
-- **Cloud & DevOps:** Kubernetes, AWS, Vercel, DigitalOcean  
+👨‍💻 About Me
 
----
+🎓 Cal-Tech AIML Graduate | AI Architect | Consultant
+🔬 Passionate about AI model efficiency, LLM applications, and AI for real-world automation.
+✉️ Contact Me: almuller3@gmail.com | LinkedIn
 
-## 📌 How to Run This Portfolio Locally
-1️⃣ Clone the repo:  
-```sh
-git clone https://github.com/almuller/ai-portfolio.git
-cd ai-portfolio
+📌 How to Use These Projects
+
+1️⃣ Clone the repo: git clone <repo_link>
+2️⃣ Follow the setup instructions in each project folder.
+3️⃣ Run the demo locally or deploy it using Docker.
+
+🚀 Want to Collaborate?
+
+I’m always open to exciting AI projects, consulting work, and cutting-edge research.
+📩 Reach out via email or connect on LinkedIn!
